@@ -1,0 +1,9 @@
+img{
+    height:200px;
+    width:150px;
+}
+.cards{
+    height: 250px;
+    width:200px;
+    float:left;
+}
