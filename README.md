@@ -1,3 +1,6 @@
+This program is building a website able to create and upload, store ,delete pages or information
+It is currently not working
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
